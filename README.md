@@ -13,7 +13,10 @@
 
 - 📝 I regularly write articles on [http://diptanusphotographyblogs.netlify.app/](http://diptanusphotographyblogs.netlify.app/)
 
-- 💬 Ask me about **React, Angular , HTML, CSS, Java, C , Javascript, mongoDB, MySQL, Node Js**
+ 📝 All of my previous job projects are available at [https://diptanuautocadprojecs.netlify.app/](https://diptanuautocadprojecs.netlify.app/)
+- 
+
+- 💬 Ask me about **React, Angular , HTML, CSS, Java, Javascript, mongoDB, MySQL, Node Js**
 
 - 📫 How to reach me **diptanubaidya4@gmail.com**
 

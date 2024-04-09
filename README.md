@@ -13,8 +13,8 @@
 
 - 📝 I regularly write articles on [http://diptanusphotographyblogs.netlify.app/](http://diptanusphotographyblogs.netlify.app/)
 
- 📝 All of my previous job projects are available at [https://diptanuautocadprojecs.netlify.app/](https://diptanuautocadprojecs.netlify.app/)
-- 
+- 📝 All of my previous job projects are available at [https://diptanuautocadprojecs.netlify.app/](https://diptanuautocadprojecs.netlify.app/)
+
 
 - 💬 Ask me about **React, Angular , HTML, CSS, Java, Javascript, mongoDB, MySQL, Node Js**
 

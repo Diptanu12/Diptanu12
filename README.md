@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://diptanubaidya4portfolio.netlify.app/](https://diptanubaidya4portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [http://diptanusphotographyblogs.netlify.app/](http://diptanusphotographyblogs.netlify.app/)
+- 📝 I regularly write articles on [http://diptanusphotographyblogs.netlify.app/](PhotoGraphy)
 
 - 📝 All of my previous job projects are available at [https://diptanuautocadprojecs.netlify.app/](https://diptanuautocadprojecs.netlify.app/)
 

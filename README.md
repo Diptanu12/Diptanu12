@@ -9,18 +9,18 @@
 
 - 🌱 I’m currently learning **Full Stack Java/Javascript/HTML/CSS/Angular/React/ Programming Languages💻📝🙇‍♂️**
 
-- 👨‍💻 All of my projects are available at [https://diptanubaidya4portfolio.netlify.app/](https://diptanubaidya4portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://diptanubaidya4portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [Photography](http://diptanusphotographyblogs.netlify.app/)
 
-- 📝 All of my previous job projects are available at [https://diptanuautocadprojecs.netlify.app/](https://diptanuautocadprojecs.netlify.app/)
+- 📝 All of my previous job projects are available at [AutoCad Template](https://diptanuautocadprojecs.netlify.app/)
 
 
 - 💬 Ask me about **React, Angular , HTML, CSS, Java, Javascript, mongoDB, MySQL, Node Js**
 
 - 📫 How to reach me **diptanubaidya4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q-g9ISXBWMAomHMebdN1LQsowgHJl3yQ/view?usp=drive_link](https://drive.google.com/file/d/1q-g9ISXBWMAomHMebdN1LQsowgHJl3yQ/view?usp=drive_link)
+- 📄 Know about my experiences [Experience Letter](https://drive.google.com/file/d/1q-g9ISXBWMAomHMebdN1LQsowgHJl3yQ/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am serious**
 

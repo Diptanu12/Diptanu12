@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Diptanu Baidya👨‍💼</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -46,4 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diptanu12&show_icons=true&locale=en" alt="diptanu12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptanu12&" alt="diptanu12" /></p>
-
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" />

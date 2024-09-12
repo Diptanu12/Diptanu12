@@ -19,7 +19,7 @@
 - 📝 All of my previous job projects are available at [AutoCad Template](https://diptanuautocadprojecs.netlify.app/)
 
 
-- 💬 Ask me about **React, Angular , HTML, CSS, Java, Javascript, mongoDB, MySQL, Node Js**
+- 💬 Ask me about **, Angular, HTML, CSS, Java, Spring boot, Hibernate, JPA, PHP, MyPHPAdmin, Javascript, MySQL**
 
 - 📫 How to reach me **diptanubaidya4@gmail.com**
 

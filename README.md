@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/diptanubaidya13" target="blank"><img src="https://img.shields.io/twitter/follow/diptanubaidya13?logo=twitter&style=for-the-badge" alt="diptanubaidya13" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Java/Javascript/HTML/CSS/Angular/React/ Programming Languages💻📝🙇‍♂️**
+- 🌱 I’m currently learning **Full Stack Java Development also Working as a PHP Full Stack Developer at Hembro💻📝🙇‍♂️**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://diptanubaidya4portfolio.netlify.app/)
 
